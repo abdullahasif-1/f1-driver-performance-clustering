@@ -27,3 +27,18 @@ The tool automatically downloads race telemetry, computes driver statistics, and
 ---
 
 ## 📊 Example
+📊 Driver Stats - 2023 Abu Dhabi GP
+Driver AvgLap LapStd StintCount Soft% Medium% Hard%
+VER 87.21 0.35 2 0.6 0.4 0.0
+HAM 88.15 0.41 3 0.5 0.5 0.0
+...
+
+🏎️ Clustering Results - 2023 Abu Dhabi GP
+Driver ClusterName
+VER Front-Runners 🏆
+HAM Midfield 🚗
+LEC Front-Runners 🏆
+STR Backmarkers 🐢
+...
+
+🔮 Prediction: Max Verstappen (VER) belongs to 'Front-Runners 🏆'
